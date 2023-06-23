@@ -1,3 +1,3 @@
-# Jetbrain Cinema Room Manager
+# Cinema Room Manager
 
-Jetbrains Cinema Room Manager project for studying Kotlin and Dart.
+Cinema Room Manager project from hyperskill.org for studying Kotlin and Dart.
